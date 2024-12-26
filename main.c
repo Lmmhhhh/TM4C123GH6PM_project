@@ -45,4 +45,4 @@ int main(void) {
 			
 		Change_duty_cycle();
     }
-}
+} 

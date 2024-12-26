@@ -3,7 +3,7 @@
 
 #include <stdint.h>
 
-void Sensor_Init(void);
+void Sensor_Init(void); 
 void Trigger_Pulse(void);
 uint32_t Calculate_Distance(void);
 void Measure_Distance(unsigned long degree);

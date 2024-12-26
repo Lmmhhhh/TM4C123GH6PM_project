@@ -4,7 +4,7 @@
 #include "dc_motor.h"
 #include "ultrasonic_sensor.h"
 
-unsigned long H, L;
+unsigned long H, L; 
 
 
 void ServoMotor_Init(void) { // output from PC4, SysTick
