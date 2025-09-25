@@ -21,7 +21,7 @@
 
 ## 사용 부품
 
-- Arduino UNO
+- ARM Cortex-M4 기반 MCU (TM4C123GH6PM)
 - HC-SR04 초음파 센서
 - SG90 서보 모터
 - L298N DC모터 드라이버
